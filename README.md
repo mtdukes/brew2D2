@@ -27,8 +27,11 @@ Some of these are just placeholders. Just think of them as places to add your be
 
 * [Belgian](https://github.com/mtdukes/brew2D2/tree/master/belgian)
 * [Lagers](https://github.com/mtdukes/brew2D2/tree/master/lagers)
+* [Pale ales](https://github.com/mtdukes/brew2D2/tree/master/pale_ales)
 * Porters
-* Pale ales
 * Witbiers
+
+##To do
+[] Standardized recipe style maybe?
 
 
