@@ -32,6 +32,6 @@ Some of these are just placeholders. Just think of them as places to add your be
 * Witbiers
 
 ##To do
-[] Standardized recipe style maybe?
+[] Standardized recipe style maybe
 
 
