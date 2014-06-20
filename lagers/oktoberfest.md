@@ -4,7 +4,7 @@
 This is an all-grain recipe for a Bavarian-style Oktoberfest from Northern Brewer that I scaled down for a 3-gallon batch.  
 
 ###Yeast preparation
-Begin by preparing [a yeast starter](http://www.northernbrewer.com/documentation/YeastStarter.pdf). Use 0.6 of a package of _[Wyeast Labs 2633 Oktoberfest](http://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=134)_ yeast.
+Begin by preparing [a yeast starter](http://www.northernbrewer.com/documentation/YeastStarter.pdf). Use 0.6 of a package of _[Wyeast Labs 2633 Oktoberfest](http://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=134)_ yeast or _[WhiteLabs 0820 Oktoberfest/Marzen](http://www.whitelabs.com/yeast/wlp820-oktoberfestm%C3%A4rzen-lager-yeast?s=homebrew)_.
 
 The idea is get the yeast cells riled up before unleashing them into the cold lager wort. Make a 3/4-cup of DME in 650 ml of boiling water for about 15 minutes. Then toss the starter flask into an ice bath to cool the wort to a good pitching temperature. After pitching, leave the yeast for about 24 hours in the flask at room temperature.
 
