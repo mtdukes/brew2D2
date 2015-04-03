@@ -31,8 +31,11 @@ Some of these are just placeholders. Just think of them as places to add your be
 * Porters
 * Witbiers
 
+[Full index](https://github.com/mtdukes/brew2D2/blob/master/index.md)
+
 ##To do
 [ ] Standardized recipe style maybe
+
 [ ] Maybe something cool on the front end like the [MinnPost CAR code page](http://code.minnpost.com/car-code/)
 
 
